@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "name": "Salário",
+      "amount": 4000,
+      "id": 1
+    },
+    {
+      "name": "Curso de Inglês",
+      "amount": -600,
+      "id": 2
+    },
+    {
+      "name": "Curso de Espanhol",
+      "amount": -450,
+      "id": 3
+    },
+    {
+      "name": "Freelancer",
+      "amount": 500,
+      "id": 4
+    },
+    {
+      "name": "Alimentação",
+      "amount": -900,
+      "id": 5
+    },
+    {
+      "name": "Barbearia",
+      "amount": -40,
+      "id": 6
+    },
+    {
+      "name": "Contas de Casa",
+      "amount": -300,
+      "id": 7
+    }
+  ]
+}
